@@ -1,0 +1,6 @@
+Id_Unidade,Id_Pedido,Tipo_Pedido,Data_Pedido,Vlr_Pedido,Endereco Entrega,Taxa_Entrega,Status
+1,101,Loja Online,2024-07-01,100.5,Endereço A,10.0,Pendente
+2,102,Loja Física,2024-07-02,200.75,Endereço B,15.0,Finalizado
+3,103,Loja Online,2024-07-03,150.0,Endereço C,10.0,Cancelado
+4,104,Loja Física,2024-07-04,300.25,Endereço D,20.0,Finalizado
+5,105,Loja Online,2024-07-05,250.0,Endereço E,15.0,Pendente

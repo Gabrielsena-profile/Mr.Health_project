@@ -1,0 +1,6 @@
+Id_Pedido,Id_Item_Pedido,Id_Produto,Qtd,Vlr_Item,Observacao
+101,1,1,1,50.25,
+101,2,2,2,50.25,Urgente
+102,3,3,1,200.75,
+103,4,4,3,150.0,
+104,5,5,1,300.25,Fragil
